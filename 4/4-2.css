@@ -1,0 +1,41 @@
+body{
+    padding: 0 15% 0 15%;
+
+
+}
+.hh1{
+ font-weight: 700;
+}
+h1,h2{
+    font-family: 'Balsamiq Sans', sans-serif;
+    
+}
+p{
+    font-family: 'Balsamiq Sans', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+a{
+    font-family: 'Playpen Sans', cursive;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.a5:hover{
+    
+    text-shadow: -2px -4px 6px red;
+}
+.a1:hover{
+    text-shadow: -2px -4px 6px red;
+}
+.a2:hover{
+    text-shadow: -2px -4px 6px red;
+}
+.a3:hover{
+    text-shadow: -2px -4px 6px red;
+}
+.a4:hover{
+    text-shadow: -2px -4px 6px red;
+}
+
+
