@@ -1,0 +1,41 @@
+a{
+    font-family:Kablammo,cursive ;
+    color: rgb(1, 1, 61);
+    font-size: 2rem;
+    text-shadow: 0px 0px 10px blue;
+    text-decoration: none;
+    transition: 0.7s;
+    
+   
+}
+
+
+
+h1{
+    font-family:Kablammo,cursive ;
+    text-align: center;
+     color: rgb(1, 1, 61);
+    font-size: 3rem;
+    transition: 0.7s;
+    
+}
+h1:hover{
+    text-shadow: -2px -1px 17px rgba(7,0,255,1);
+}   
+a:hover{
+    letter-spacing: 3px;
+
+
+}
+.menu-item{
+    text-align: center;
+}
+p{
+    font-family: Shantell Sans,cursive;
+
+
+}
+img{
+    width: 640px;
+    margin: 20px;
+}
