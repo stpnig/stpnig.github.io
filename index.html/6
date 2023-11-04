@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ol{
+            list-style-type: upper-roman;
+        }
+        ul{
+            list-style-type: square;
+        }
+
+
+    </style>
+</head>
+<body>
+    <ol>
+        <li>Англійська мова</li>
+        <li>Фізика</li>
+        <li>Українська література</li>
+        <li>Мистецтво</li>
+        <li>Геометрія</li>
+        <li>Геометрія</li>
+        <li>Інформатика</li>
+        <li>Інформатика</li>
+    </ol>
+    <ul>
+        <li>Живчик</li>
+        <li>Хруст тім</li>
+        <li>Палички з сюрпризом</li>
+        <li>Львівське 1715</li>
+        <li>Чіпси Санчо</li>
+        <li>Квас Тарас</li>
+        <li>Цукерки Патрончики</li>
+
+
+    </ul> 
+    <img src="IMG_3202.jpeg" alt="" width="360">   
+
+
+
+    </ol>
+</body>
+</html>
