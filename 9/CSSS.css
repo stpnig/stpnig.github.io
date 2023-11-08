@@ -1,0 +1,33 @@
+body{background-image: url(fon.jpg);  
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.wrap{
+    background-color: rgb(239, 248, 252) ;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 30px;
+    width: 80%;
+    font-size: 1em;
+    box-shadow: 0px 0px 30px rgb(243, 238, 238);
+    line-height: 1.5;
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 1.2em;
+    font-weight: 700;
+    text-align: center;
+}
+h2{
+    font-weight: 900;
+    text-transform: uppercase;
+}
+p{
+    padding-top: 5px;
+    font-style: italic;
+}
