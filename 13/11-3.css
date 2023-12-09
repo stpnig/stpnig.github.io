@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+}
+.ball1{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 18s;
+    
+    
+    
+}
+@keyframes an1{
+    0%{ bottom: 90%; background-color: brown;}
+     
+    50%{ bottom: 0%;background-color: blue;}
+ 
+    100%{ bottom: 90%;background-color: darkolivegreen;}
+}
+@keyframes an2{
+    0% {left: 0%; background-color: magenta;}
+    100%   {left: 90%;background-color: gold;}
+}
+.ball2{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 21s;
+}
+.ball3{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    
+}
+.ball4{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 3s;
+}
+.ball5{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 6s;
+}
+.ball6{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 9s;
+
+}
+.ball7{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 12s;
+}
+.ball8{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    animation: an1 2s linear infinite,an2 21s linear infinite;
+    background-color: beige;
+    animation-direction: alternate;
+    animation-delay: 15s;
+}
+
+
+
