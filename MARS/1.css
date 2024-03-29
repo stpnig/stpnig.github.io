@@ -1,0 +1,55 @@
+header{
+background-image: url(fon.png);}
+img{
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.logo1{
+    color: coral;
+    font-size: 10rem;
+   font-family: "Poiret One", sans-serif; 
+   line-height: 0.5;
+}
+.logo2{
+    color: coral;
+    font-size: 1.3rem;
+    font-family: "Cormorant Garamond", serif;
+}
+h2{
+    font-family: "Cormorant Garamond", serif; 
+    color: coral;
+}
+p{
+    font-family: "Exo 2", sans-serif;  - для всіх p
+}
+.card-header{
+    background-color: #deb887;
+}
+.card-body{
+    background-color: #853504;
+}
+footer{
+    background-color:#602601;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.card{
+    height: 100%;
+    animation: anim 3s linear 0s infinite;
+    transition: 1s;
+}
+.xx2{
+    color: bisque;
+}
+
+.card:hover{
+    transform: scale(1.05)
+}
+i{
+    color: white;
+} 
+.xx3{
+    color: #d4894f; 
+}
