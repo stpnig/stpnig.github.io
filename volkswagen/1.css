@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+}
+.logo-img{
+width: 60px;
+}
+.nav-link{
+    color: navy;
+    font-size: 1.2rem;
+    font-weight: 900;
+}
+footer{
+    background-color: navy;
+    color: white;
+}
+.zoom:hover {
+    transform: scale(2)
+}
+.zoom{
+    transition: 1s;
+}
+.col-md-5{
+    overflow:hidden;
+}
