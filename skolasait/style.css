@@ -1,0 +1,18 @@
+img{
+  width: 100%;
+}
+
+.texting{
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+.card{
+    height: 100%;
+}
+body{
+    font-family: "Pangolin", cursive;
+}
+h1{
+  width: 600px;
+}
