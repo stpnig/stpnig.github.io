@@ -1,0 +1,44 @@
+img{
+    width: 100%;
+}
+
+.big-photo{
+    background-image: url(banner.jpg);  
+    height: 700px;
+    background-position: 30% 50%;
+    background-size: cover;
+    text-align: right;
+    color: azure;
+    margin-bottom: 15px;
+}
+.small-photo{
+    background-image:linear-gradient(rgba(0, 0, 255, 0.614),rgba(255, 255, 255, 0.244)),url(the-hut-bg.png);  
+    height: 350px;
+    background-position: 30% 50%;
+    background-size: cover;
+    text-align: center;
+    color: azure;
+}
+.smal-photo{
+    background-image: url(the-area.png);  
+    height: 350px;
+    background-position: 30% 50%;
+    background-size: cover;
+    text-align: center;
+    color: azure;
+}
+footer{
+    background-color: gray;}
+.mr-15-bot{
+    margin-bottom: 25px;
+}
+.zoom:hover {
+    transform: scale(1.03)
+}
+.zoom{
+    transition: 1s;
+}
+html{
+    scroll-behavior: smooth;
+}
+
