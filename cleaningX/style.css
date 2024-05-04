@@ -1,0 +1,55 @@
+.graddd{
+    background:rgb(109,101,237);
+    color: white;
+    background: linear-gradient(to right, rgb(120, 59, 164), rgba(255,255,255,1) , rgba(21,0,255,1));
+}
+img{
+    width: 100%;
+}
+.fon-1{
+    background: linear-gradient(to bottom, rgba(123,214,240,1) , rgba(255,255,255,1) );
+}
+.text-top{
+    font-weight:10;
+}
+.my-card-1 img{
+    width: 30%;
+    
+    
+}
+.my-card-1{
+    margin: 30px;
+}
+.img-12{
+    width: 80%;
+}
+.my-card-2 img{
+    width: 30%;
+}
+.fon-2{
+    background: linear-gradient(135deg, rgba(195,195,195,1) , rgba(17,0,176,1) );
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+   
+}
+.spis{
+    list-style-image: url(list-img.png);
+}
+.fon-3{
+    background: linear-gradient(90deg, rgba(0,145,252,1), rgba(255,255,255,1) );
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 50px;
+}
+.srmkob{
+    margin-right: 40px;
+}
+footer{
+    margin-top: 30px;
+    padding: 15px 15px;
+    background: linear-gradient(90deg, rgba(4,35,205,1) , rgba(255,255,255,1) , rgba(39,11,198,1) );;
+}
+body{
+    font-family: "Ubuntu Sans Mono", monospace;
+}
