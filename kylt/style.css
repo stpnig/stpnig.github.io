@@ -1,0 +1,10 @@
+img{
+    width: 100%;
+}
+.green{
+    background-color: rgba(95, 255, 47, 0.37);
+    padding: 20px;
+}
+.grey{
+    background-color: grey;
+}
