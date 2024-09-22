@@ -35,4 +35,4 @@ function Ageinseconds(){
 btn1.onclick = writeText
 btn2.onclick = DeleteText
 dtn3.onclick= tapayHamster
-dtn3.onclick= Ageinseconds
+dtn4.onclick= Ageinseconds
