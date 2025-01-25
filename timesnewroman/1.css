@@ -1,0 +1,22 @@
+.oclock{
+    background-image: url(day.jpg);
+    margin: 0;
+    text-align: center;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding: 100px 0;
+    color: black;
+    text-shadow: -5px 1px 5px rgba(24,208,58,1);
+}
+.p-hour{
+    font-size: 4em;
+    margin: 0;
+    font-family: ;
+}
+.p-day{
+    font-size: 2em;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
