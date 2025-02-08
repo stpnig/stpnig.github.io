@@ -1,0 +1,53 @@
+.game{
+    background-image: url(t-rex-background.png);
+    height: 200px;
+    margin: 0;
+    animation:FonMove 3s infinite linear;
+    position: relative;
+}
+
+@keyframes FonMove{
+    0%{background-position: 100%;}
+    100%{background-position: 0%;}
+}
+.dino{
+    background-image: url(dinozavr.gif);
+    height: 50px;
+    width: 40px;
+    background-size: 40px 50px;
+    position: absolute;
+    top: 150px;
+    left: 95px;
+}
+.cactus{
+    background-image: url(cactus.png);
+    height: 50px;
+    width: 30px;
+    background-size: 30px 50px;
+    position: absolute;
+    top: 140px;
+    left: 90%;
+    animation:moveCactus 3s infinite linear;
+}
+@keyframes moveCactus{
+    0%{
+        left: 100%;
+    }
+    100%{
+        left: 0%;
+    }
+}
+@keyframes jump{
+    0%{top: 150px;}
+    50%{top: 70px;}
+    100%{top: 150px}
+    
+}
+.jump{
+    animation:jump 0.5s infinite linear;
+}
+.score{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
